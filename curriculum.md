@@ -17,4 +17,9 @@ Now that you have created your first repo, its your task to keep it active
     - [ ] See how tasks are created
     - [ ] Explore moving tasks from one tab to another etc...
   - I will be using the project to organize the todos for you
+  - I want us to learn by doung. I hope you have enough basics to keep us moving if you are ready to catch up.
   - See project for tasks
+
+
+## CURRICULUM
+ ill share it with you when done.
