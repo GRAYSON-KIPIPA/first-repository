@@ -23,3 +23,7 @@ Now that you have created your first repo, its your task to keep it active
 
 ## CURRICULUM
  ill share it with you when done.
+
+
+
+## finished git basics
