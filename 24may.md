@@ -50,3 +50,7 @@ for adding all files use command `git add .`
 3. to switch branch
     - `git checkout <branchname>`
     - `git checkout firstbanch`
+
+4. to push new branch to online repository
+    - `git push -u origin [branch] `
+    - `git push -u origin firstbranch`
