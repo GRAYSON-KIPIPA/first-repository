@@ -57,3 +57,7 @@ for adding all files use command `git add .`
 
 ## Extensions
 1. vscode extension
+
+## After learning today wednesday
+
+1. try to add some changes to the main branch
