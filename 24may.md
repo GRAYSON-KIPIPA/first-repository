@@ -43,3 +43,10 @@ for adding all files use command `git add .`
 1. creating a branch
     - `git branch <branch name>`
     - `git branch firstbranch`
+
+2. to View branches available
+    - `git branch`
+
+3. to switch branch
+    - `git checkout <branchname>`
+    - `git checkout firstbanch`
