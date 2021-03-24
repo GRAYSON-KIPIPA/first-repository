@@ -25,4 +25,21 @@ steps to commit:
 for adding all files use command `git add .`
 
 
-2. commit to the offline repo (.git)
+3. commit to the offline repo (.git)
+    - `git commit -m "<message>" `
+    - `git commit -m "created basics for git file"`
+
+
+
+## Push
+1. check kthe status of the offline repo
+    - `git status`
+
+
+2. Push the changes online
+    - `git push`
+
+## Branches
+1. creating a branch
+    - `git branch <branch name>`
+    - `git branch firstbranch`
