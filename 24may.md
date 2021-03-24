@@ -54,3 +54,6 @@ for adding all files use command `git add .`
 4. to push new branch to online repository
     - `git push -u origin [branch] `
     - `git push -u origin firstbranch`
+
+## Extensions
+1. vscode extension
