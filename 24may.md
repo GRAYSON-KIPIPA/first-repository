@@ -43,3 +43,17 @@ for adding all files use command `git add .`
 1. creating a branch
     - `git branch <branch name>`
     - `git branch firstbranch`
+
+2. to View branches available
+    - `git branch`
+
+3. to switch branch
+    - `git checkout <branchname>`
+    - `git checkout firstbanch`
+
+4. to push new branch to online repository
+    - `git push -u origin [branch] `
+    - `git push -u origin firstbranch`
+
+## Extensions
+1. vscode extension
