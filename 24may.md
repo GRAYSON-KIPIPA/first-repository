@@ -61,3 +61,4 @@ for adding all files use command `git add .`
 ## After learning today wednesday
 
 1. try to add some changes to the main branch
+2. second changes was made to improve what i understood
