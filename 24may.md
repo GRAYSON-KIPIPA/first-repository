@@ -62,3 +62,5 @@ for adding all files use command `git add .`
 
 1. try to add some changes to the main branch
 2. second changes was made to improve what i understood
+3. this line is just added to the secondbranch 
+4. so i feel proud to see some data on this branch that is not in master branch
