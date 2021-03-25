@@ -1,4 +1,5 @@
 # Understanding And Using REST APIs
+[source of this session](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
 
 ### API 
 Application Programming Interface
@@ -18,22 +19,25 @@ it stands for Representational State Transfer
 2. RESPONSE
 
 
-### REQUEST
+## REQUEST
 1.  The endpoint
 2.  The method
 3.  The headers
 4.  The data (or body)
 
-#### Endpoint
+### 1. Endpoint
 - `root-url/path`
 - `localhost:3000/users`
 - `localhost:3000/users/1/name`
 
 
-#### Method
+### 2. Method
 1. GET
+   - used to send a request that need to read data in the database or server
 2. POST
+    -used when user wants to add some data in server
 3. PUT
+    -used when user 
 4. PATCH
 5. DELETE
 
@@ -47,3 +51,43 @@ Delete
 
 
 
+### 3. HEADERS
+specified in key-value pairs, 
+- used to 
+    - give information on the request being performed
+    - Authentication
+
+For the list of available http headers, use this link.
+[List of available http headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+
+- sample key value pair
+```javascript
+{
+    name:'kipipa',
+    email:'kip@yahoo.com'
+}
+```
+
+sample header information
+- "Content-Type: application/json"
+
+
+### 4. DATA
+The data (sometimes called “body” or “message”) contains information you want to be sent to the server. This option is only used with POST, PUT, PATCH or DELETE requests.
+
+
+
+## RESPONSE
+
+1. status codes
+2. requested data
+
+
+
+### 1. Status codes
+shows the status of the response.
+
+[list of status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+### 2. Data
+representation of the requested data
