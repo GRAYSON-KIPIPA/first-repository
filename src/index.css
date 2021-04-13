@@ -13,8 +13,13 @@ code {
 }
 
 .task {
-  background: #f4f4f4;
-  margin: 5px;
+  background: #290d0d;
+  padding-top: 30px;
+  margin-left: 45px;
+  margin-right: 40px;
   padding: 10px 20px;
   cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  color: darkblue;
 }
